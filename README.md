@@ -5,7 +5,7 @@
 Hi, I'm Kajetan Kisielewski. I am a JavaScript/React developer from Warsaw, Poland. In addition to programming, I am interested in psychology, 
 geopolitics and the history of ancient civilizations, especially the Chaldean. **I am currently looking for my first job as a Front-End developer so feel free to contact me at:**  
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kajetan-kisielewski-157b60208/)](https://www.linkedin.com/in/kajetan-kisielewski-157b60208/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kajetan-kisielewski/)](www.linkedin.com/in/kajetan-kisielewski/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kajetankisielewski@gmail.com)](mailto:kajetankisielewski@gmail.com)
 
 
