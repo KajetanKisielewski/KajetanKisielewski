@@ -117,14 +117,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KajetanKisielewski/KajetanKisielewski/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KajetanKisielewski/KajetanKisielewski/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/KajetanKisielewski/KajetanKisielewski/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KajetanKisielewski/KajetanKisielewski/output/github-snake-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KajetanKisielewski/KajetanKisielewski/output/github-snake.gif" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/KajetanKisielewski/KajetanKisielewski/output/github-snake-dark.gif" />
   </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06080f,100:00c8ff&height=90&section=footer" width="100%" />
 </div>
