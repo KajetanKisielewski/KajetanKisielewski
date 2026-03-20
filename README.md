@@ -27,18 +27,18 @@
 
 ## What I Build
 
-<table>
+<table border="0" cellspacing="0" cellpadding="8">
   <tr>
-    <td width="33%" align="center">
-      <h3>AI Features</h3>
+    <td align="center" valign="top">
+      <b>AI Features</b><br/>
       RAG systems, AI agents, prompt workflows, and production integrations with OpenAI, Anthropic, and Gemini.
     </td>
-    <td width="33%" align="center">
-      <h3>Full-Stack Platforms</h3>
+    <td align="center" valign="top">
+      <b>Full-Stack Platforms</b><br/>
       React/Angular frontends, Node.js backends, microservices architecture, and API-first development.
     </td>
-    <td width="33%" align="center">
-      <h3>Product Delivery</h3>
+    <td align="center" valign="top">
+      <b>Product Delivery</b><br/>
       From idea to deployment: architecture, implementation, testing, CI/CD, and iterative improvement.
     </td>
   </tr>
@@ -51,55 +51,55 @@
 <div align="center">
 
 **Core**  
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=339933)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E#gh-dark-mode-only)![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=F7DF1E#gh-light-mode-only)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6#gh-dark-mode-only)![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=3178C6#gh-light-mode-only)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=339933#gh-dark-mode-only)![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat-square&logo=node.js&logoColor=339933#gh-light-mode-only)
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-111827?style=flat-square&logo=angular&logoColor=DD0031)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-111827?style=flat-square&logo=redux&logoColor=764ABC)
-![RxJS](https://img.shields.io/badge/RxJS-111827?style=flat-square&logo=reactivex&logoColor=B7178C)
-![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![MUI](https://img.shields.io/badge/MUI-111827?style=flat-square&logo=mui&logoColor=007FFF)
-![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646CFF)
-![PWA](https://img.shields.io/badge/PWA-111827?style=flat-square&logo=pwa&logoColor=5A0FC8)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB#gh-dark-mode-only)![React](https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=61DAFB#gh-light-mode-only)
+![React Native](https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=61DAFB#gh-dark-mode-only)![React Native](https://img.shields.io/badge/React_Native-555555?style=flat-square&logo=react&logoColor=61DAFB#gh-light-mode-only)
+![Angular](https://img.shields.io/badge/Angular-111827?style=flat-square&logo=angular&logoColor=DD0031#gh-dark-mode-only)![Angular](https://img.shields.io/badge/Angular-555555?style=flat-square&logo=angular&logoColor=DD0031#gh-light-mode-only)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-111827?style=flat-square&logo=redux&logoColor=764ABC#gh-dark-mode-only)![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-555555?style=flat-square&logo=redux&logoColor=764ABC#gh-light-mode-only)
+![RxJS](https://img.shields.io/badge/RxJS-111827?style=flat-square&logo=reactivex&logoColor=B7178C#gh-dark-mode-only)![RxJS](https://img.shields.io/badge/RxJS-555555?style=flat-square&logo=reactivex&logoColor=B7178C#gh-light-mode-only)
+![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4#gh-dark-mode-only)![Tailwind](https://img.shields.io/badge/Tailwind-555555?style=flat-square&logo=tailwindcss&logoColor=06B6D4#gh-light-mode-only)
+![MUI](https://img.shields.io/badge/MUI-111827?style=flat-square&logo=mui&logoColor=007FFF#gh-dark-mode-only)![MUI](https://img.shields.io/badge/MUI-555555?style=flat-square&logo=mui&logoColor=007FFF#gh-light-mode-only)
+![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646CFF#gh-dark-mode-only)![Vite](https://img.shields.io/badge/Vite-555555?style=flat-square&logo=vite&logoColor=646CFF#gh-light-mode-only)
+![PWA](https://img.shields.io/badge/PWA-111827?style=flat-square&logo=pwa&logoColor=5A0FC8#gh-dark-mode-only)![PWA](https://img.shields.io/badge/PWA-555555?style=flat-square&logo=pwa&logoColor=5A0FC8#gh-light-mode-only)
 
 **Backend & API**  
-![NestJS](https://img.shields.io/badge/NestJS-111827?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=ffffff)
-![TypeORM](https://img.shields.io/badge/TypeORM-111827?style=flat-square&logo=typeorm&logoColor=FE0803)
-![Microservices](https://img.shields.io/badge/Microservices-111827?style=flat-square&logoColor=00c8ff)
-![REST API](https://img.shields.io/badge/REST_API-111827?style=flat-square&logoColor=00c8ff)
-![GraphQL](https://img.shields.io/badge/GraphQL-111827?style=flat-square&logo=graphql&logoColor=E10098)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=003B57)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
+![NestJS](https://img.shields.io/badge/NestJS-111827?style=flat-square&logo=nestjs&logoColor=E0234E#gh-dark-mode-only)![NestJS](https://img.shields.io/badge/NestJS-555555?style=flat-square&logo=nestjs&logoColor=E0234E#gh-light-mode-only)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=ffffff#gh-dark-mode-only)![Express](https://img.shields.io/badge/Express-555555?style=flat-square&logo=express&logoColor=ffffff#gh-light-mode-only)
+![TypeORM](https://img.shields.io/badge/TypeORM-111827?style=flat-square&logo=typeorm&logoColor=FE0803#gh-dark-mode-only)![TypeORM](https://img.shields.io/badge/TypeORM-555555?style=flat-square&logo=typeorm&logoColor=FE0803#gh-light-mode-only)
+![Microservices](https://img.shields.io/badge/Microservices-111827?style=flat-square&logoColor=00c8ff#gh-dark-mode-only)![Microservices](https://img.shields.io/badge/Microservices-555555?style=flat-square&logoColor=00c8ff#gh-light-mode-only)
+![REST API](https://img.shields.io/badge/REST_API-111827?style=flat-square&logoColor=00c8ff#gh-dark-mode-only)![REST API](https://img.shields.io/badge/REST_API-555555?style=flat-square&logoColor=00c8ff#gh-light-mode-only)
+![GraphQL](https://img.shields.io/badge/GraphQL-111827?style=flat-square&logo=graphql&logoColor=E10098#gh-dark-mode-only)![GraphQL](https://img.shields.io/badge/GraphQL-555555?style=flat-square&logo=graphql&logoColor=E10098#gh-light-mode-only)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1#gh-dark-mode-only)![MySQL](https://img.shields.io/badge/MySQL-555555?style=flat-square&logo=mysql&logoColor=4479A1#gh-light-mode-only)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=003B57#gh-dark-mode-only)![SQLite](https://img.shields.io/badge/SQLite-555555?style=flat-square&logo=sqlite&logoColor=003B57#gh-light-mode-only)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED#gh-dark-mode-only)![Docker](https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=2496ED#gh-light-mode-only)
 
 **AI & LLM**  
-![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=chainlink&logoColor=00c8ff)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-111827?style=flat-square&logo=openai&logoColor=00c8ff)
-![Anthropic](https://img.shields.io/badge/Anthropic-111827?style=flat-square&logoColor=00c8ff)
-![Gemini](https://img.shields.io/badge/Gemini-111827?style=flat-square&logo=googlegemini&logoColor=8E75B2)
-![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square&logoColor=00c8ff)
-![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=flat-square&logoColor=00c8ff)
-![Qdrant](https://img.shields.io/badge/Qdrant-111827?style=flat-square&logo=qdrant&logoColor=DC244C)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111827?style=flat-square&logoColor=00c8ff)
+![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=chainlink&logoColor=00c8ff#gh-dark-mode-only)![LangChain](https://img.shields.io/badge/LangChain-555555?style=flat-square&logo=chainlink&logoColor=00c8ff#gh-light-mode-only)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-111827?style=flat-square&logo=openai&logoColor=00c8ff#gh-dark-mode-only)![OpenAI API](https://img.shields.io/badge/OpenAI_API-555555?style=flat-square&logo=openai&logoColor=ffffff#gh-light-mode-only)
+![Anthropic](https://img.shields.io/badge/Anthropic-111827?style=flat-square&logoColor=00c8ff#gh-dark-mode-only)![Anthropic](https://img.shields.io/badge/Anthropic-555555?style=flat-square&logoColor=ffffff#gh-light-mode-only)
+![Gemini](https://img.shields.io/badge/Gemini-111827?style=flat-square&logo=googlegemini&logoColor=8E75B2#gh-dark-mode-only)![Gemini](https://img.shields.io/badge/Gemini-555555?style=flat-square&logo=googlegemini&logoColor=8E75B2#gh-light-mode-only)
+![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square&logoColor=00c8ff#gh-dark-mode-only)![RAG](https://img.shields.io/badge/RAG-555555?style=flat-square&logoColor=00c8ff#gh-light-mode-only)
+![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=flat-square&logoColor=00c8ff#gh-dark-mode-only)![AI Agents](https://img.shields.io/badge/AI_Agents-555555?style=flat-square&logoColor=00c8ff#gh-light-mode-only)
+![Qdrant](https://img.shields.io/badge/Qdrant-111827?style=flat-square&logo=qdrant&logoColor=DC244C#gh-dark-mode-only)![Qdrant](https://img.shields.io/badge/Qdrant-555555?style=flat-square&logo=qdrant&logoColor=DC244C#gh-light-mode-only)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111827?style=flat-square&logoColor=00c8ff#gh-dark-mode-only)![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-555555?style=flat-square&logoColor=00c8ff#gh-light-mode-only)
 
 **Realtime, Security, QA & DevOps**  
-![WebRTC](https://img.shields.io/badge/WebRTC-111827?style=flat-square&logo=webrtc&logoColor=333333)
-![Socket.io](https://img.shields.io/badge/Socket.io-111827?style=flat-square&logo=socket.io&logoColor=ffffff)
-![D3.js](https://img.shields.io/badge/D3.js-111827?style=flat-square&logo=d3.js&logoColor=F9A03C)
-![Chart.js](https://img.shields.io/badge/Chart.js-111827?style=flat-square&logo=chartdotjs&logoColor=FF6384)
-![Azure AD](https://img.shields.io/badge/Azure_AD-111827?style=flat-square&logo=microsoftazure&logoColor=0078D4)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-111827?style=flat-square&logoColor=00c8ff)
-![RBAC](https://img.shields.io/badge/RBAC-111827?style=flat-square&logoColor=00c8ff)
-![Jest](https://img.shields.io/badge/Jest-111827?style=flat-square&logo=jest&logoColor=C21325)
-![Cypress](https://img.shields.io/badge/Cypress-111827?style=flat-square&logo=cypress&logoColor=69D3A7)
-![Nginx](https://img.shields.io/badge/Nginx-111827?style=flat-square&logo=nginx&logoColor=009639)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-111827?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
+![WebRTC](https://img.shields.io/badge/WebRTC-111827?style=flat-square&logo=webrtc&logoColor=ffffff#gh-dark-mode-only)![WebRTC](https://img.shields.io/badge/WebRTC-555555?style=flat-square&logo=webrtc&logoColor=ffffff#gh-light-mode-only)
+![Socket.io](https://img.shields.io/badge/Socket.io-111827?style=flat-square&logo=socket.io&logoColor=ffffff#gh-dark-mode-only)![Socket.io](https://img.shields.io/badge/Socket.io-555555?style=flat-square&logo=socket.io&logoColor=ffffff#gh-light-mode-only)
+![D3.js](https://img.shields.io/badge/D3.js-111827?style=flat-square&logo=d3.js&logoColor=F9A03C#gh-dark-mode-only)![D3.js](https://img.shields.io/badge/D3.js-555555?style=flat-square&logo=d3.js&logoColor=F9A03C#gh-light-mode-only)
+![Chart.js](https://img.shields.io/badge/Chart.js-111827?style=flat-square&logo=chartdotjs&logoColor=FF6384#gh-dark-mode-only)![Chart.js](https://img.shields.io/badge/Chart.js-555555?style=flat-square&logo=chartdotjs&logoColor=FF6384#gh-light-mode-only)
+![Azure AD](https://img.shields.io/badge/Azure_AD-111827?style=flat-square&logo=microsoftazure&logoColor=0078D4#gh-dark-mode-only)![Azure AD](https://img.shields.io/badge/Azure_AD-555555?style=flat-square&logo=microsoftazure&logoColor=0078D4#gh-light-mode-only)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-111827?style=flat-square&logoColor=00c8ff#gh-dark-mode-only)![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-555555?style=flat-square&logoColor=00c8ff#gh-light-mode-only)
+![RBAC](https://img.shields.io/badge/RBAC-111827?style=flat-square&logoColor=00c8ff#gh-dark-mode-only)![RBAC](https://img.shields.io/badge/RBAC-555555?style=flat-square&logoColor=00c8ff#gh-light-mode-only)
+![Jest](https://img.shields.io/badge/Jest-111827?style=flat-square&logo=jest&logoColor=C21325#gh-dark-mode-only)![Jest](https://img.shields.io/badge/Jest-555555?style=flat-square&logo=jest&logoColor=C21325#gh-light-mode-only)
+![Cypress](https://img.shields.io/badge/Cypress-111827?style=flat-square&logo=cypress&logoColor=69D3A7#gh-dark-mode-only)![Cypress](https://img.shields.io/badge/Cypress-555555?style=flat-square&logo=cypress&logoColor=69D3A7#gh-light-mode-only)
+![Nginx](https://img.shields.io/badge/Nginx-111827?style=flat-square&logo=nginx&logoColor=009639#gh-dark-mode-only)![Nginx](https://img.shields.io/badge/Nginx-555555?style=flat-square&logo=nginx&logoColor=009639#gh-light-mode-only)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-111827?style=flat-square&logo=githubactions&logoColor=2088FF#gh-dark-mode-only)![GitHub Actions](https://img.shields.io/badge/CI%2FCD-555555?style=flat-square&logo=githubactions&logoColor=2088FF#gh-light-mode-only)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032#gh-dark-mode-only)![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=F05032#gh-light-mode-only)
 
 </div>
 
